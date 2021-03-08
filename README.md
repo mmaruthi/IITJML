@@ -16,16 +16,24 @@ where p0 is the observed agreement and pe is the hypothetical agreement.
 2) Accuracies 
 
 Total Accuracy : 75%
+
 Class 0 Accuracy : 67%
+
 Class 1 Accuracy : 88%
+
 Class 2 Accuracy : 72%
+
 Class 3 Accuracy : 77%
 
 Confusion Matrix:
             0  1  2  3
+            
         0   33 8  4  4
+        
         1   1 32  3  0
+        
         2   3  2 29  6 
+        
         3   2  3  3  27 
         
  Precision :
